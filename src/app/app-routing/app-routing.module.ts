@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterModule, Routes } from '@angular/router';
 
-import { routes } from './app-routing/routes';
+import { routes } from './routes';
 
 @NgModule({
   imports: [
